@@ -3380,7 +3380,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../banner.png");
+		background-image: "https://github.com/funphysics01/Fluidoku/blob/main/banner.png?raw=true";
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3415,7 +3415,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.6;
+			opacity: 0.3;
 			position: absolute;
 			top: 0;
 			width: 100%;
